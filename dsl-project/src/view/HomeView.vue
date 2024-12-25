@@ -1,4 +1,5 @@
 <script setup>
+import Navbar from '@/components/Navbar.vue';
   import Hero from '@/components/Hero.vue'
   import Notice from '@/components/Notice.vue';
   import Service from '@/components/Service.vue';
@@ -8,6 +9,7 @@
 </script>
 
 <template>
+  <Navbar/>
      <Hero />  
      <Notice/>
      <Service/>
