@@ -22,8 +22,8 @@ defineProps({
         class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center"
       >
         <div class="text-center">
-        <h1 class="text-xl text-sky-500 font-extrabold  sm:text-4xl md:text-6xl mb-2">วันศุกร์</h1>
-        <h1 class="text-xl font-extrabold  sm:text-4xl md:text-6xl">เปิดรับเฉพาะเอกสารแก้ไข</h1>
+        <h1 class="text-4xl text-sky-500 font-extrabold md:text-6xl mb-2">วันศุกร์</h1>
+        <h1 class="text-2xl font-extrabold  sm:text-4xl md:text-6xl">เปิดรับเฉพาะเอกสารแก้ไข</h1>
         </div>
       </div>
     </section>
