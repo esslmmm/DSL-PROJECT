@@ -10,6 +10,9 @@ import QueueUpView from './view/QueueUpView.vue';
 import UserQueue from './view/UserQueue.vue';
 import Review from './view/Review.vue';
 
+import StaffReviewTable from './view/StaffReviewTable.vue';
+import TVshow from './view/TVshow.vue';
+
 
 </script>
 
